@@ -1,7 +1,11 @@
 # PyIU
-A Workshop Series on Python Essentials
+## A Workshop Series on Python Essentials
 
 The PyIU Python Workshops at Indiana University (IU) is a free Python course series presented by IU Astronomy graduate students. Founded during the fall of 2022, PyIU is designed to spark interest in STEM and provide students with the programming and problem-solving skills necessary to succeed in research. The Python Crash Course events, typically held during the start of every semester, teach the fundamentals of Python and are geared towards beginners to Python/programming. The Advanced Python Workshops take place later in the semester and are also beginner-friendly, but offer more resources for adept/experienced users of the language and are focused on more specific applications.
+
+Check out some news highlights from previous iterations of the program here:
+- Fall 2024 Crash Course: <a href="astro.indiana.edu/news-events/news/2024-fall-python-crash-course-wrapup.html">https://astro.indiana.edu/news-events/news/2024-fall-python-crash-course-wrapup.html</a>
+- Spring 2023 Advanced Workshop: <a href="astro.indiana.edu/news-events/news/2024-fall-python-crash-course-wrapup.html">https://astro.indiana.edu/news-events/news/pythn-crash-course-2023.html</a>
 
 ## Get Coding
 
