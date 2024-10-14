@@ -9,6 +9,6 @@ Check out some news highlights from previous iterations of the program here:
 
 ## Get Coding
 
-All materials from these workshops are free to access and are posted in this GitHub repository. Note that all Python code is written as notebooks.
+All materials from these workshops, including tutorials and demos, are free to access and are posted in this GitHub repository. Note that all Python code is written in notebook format (.ipynb).
 
 Questions about PyIU? Want to get involved as an instructor? Contact Brandon Radzom at <a href="bradzom@iu.edu">bradzom@iu.edu</a>.
