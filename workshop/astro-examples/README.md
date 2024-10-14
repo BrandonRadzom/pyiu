@@ -1,3 +1,3 @@
 # Astronomy Packages and Examples
 
-**Contributors:** Lexi Gault
+**Contributors:** Lexi Gault, Brandon Radzom
