@@ -1,3 +1,3 @@
 # Advanced Plotting
 
-**Contributors:** Kristin Baker
+**Contributors:** Kristin Baker, Jessica Ranshaw
