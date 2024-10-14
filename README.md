@@ -9,6 +9,6 @@ Check out some news highlights from previous iterations of the program here:
 
 ## Get Coding
 
-All materials from these workshops, including tutorials and demos, are free to access and are posted in this GitHub repository. Note that all Python code is written in notebook format (.ipynb).
+All materials from these workshops, including tutorials and demos, are free to access and are posted in this GitHub repository. Just navigate to either the "crash-course" or "workshop" folder to start! Note that all Python code is written in notebook format (".ipynb"), and can be easily accessed, without any Python installation, on <a href="https://colab.google/">Google Colaboratory</a>.
 
-Questions about PyIU? Want to get involved as an instructor? Contact Brandon Radzom at <a href="bradzom@iu.edu">bradzom@iu.edu</a>.
+Questions about PyIU? Requests for Python topics? Want to get involved as an instructor? Contact Brandon Radzom at <a href="bradzom@iu.edu">bradzom@iu.edu</a>.
