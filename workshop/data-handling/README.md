@@ -1,3 +1,3 @@
 # Data Handling (Input/Output)
 
-## Contributors: Brandon Radzom, Robert Howard
+**Contributors:** Brandon Radzom, Robert Howard
