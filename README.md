@@ -1,5 +1,5 @@
 # PyIU
-<img src="pyiu.png" width="125" height="192">
+<img src="pyiu_logo.png" width="125" height="192">
 
 ## A Workshop Series on Python Essentials
 
