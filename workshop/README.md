@@ -14,5 +14,6 @@ Topics that are covered include:
 - Python Installation, Environments, & IDEs
 - Numerical Integration & Simulations
 - Statistics
+- Python Fundamentals
 
-The fastest and easiest way to get coding with these examples is through <a href="https://colab.research.google.com/">Google Colaboratory</a>, though most should be runnable off of any $\texttt{anaconda}$ installation of Python.
+The fastest and easiest way to get coding with these examples is through <a href="https://colab.research.google.com/">Google Colaboratory</a>, though most should run with any `anaconda` installation of Python.
