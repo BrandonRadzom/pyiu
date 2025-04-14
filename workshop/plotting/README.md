@@ -1,3 +1,3 @@
 # Advanced Plotting
 
-**Contributors:** Kristin Baker, Jessica Ranshaw
+**Contributors:** Kristin Baker, Jessica Ranshaw, Robert Howard
