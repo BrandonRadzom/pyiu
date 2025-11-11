@@ -9,6 +9,7 @@ The PyIU Python Workshops at Indiana University (IU) is a free Python course ser
 The IU Python Crash Course events, typically held towards the start of every semester, teach the fundamentals of Python and are geared towards Python/programming beginners. The Advanced Python Workshops take place later in the semester and are also beginner-friendly, but offer more resources for adept/experienced users of the language and are focused on more specific applications. Pre-college events at high schools or other community spaces are usually beginner-friendly, and may take place at any time of the year.
 
 Check out some news highlights from previous iterations of the program here:
+- Fall 2025 IU Crash Course: <a href="astro.indiana.edu/news-events/news/2025-pyiu-fall.html">https://www.astro.indiana.edu/news-events/news/2025-pyiu-fall.html</a>
 - Spring 2025 IU Crash Course and Advanced Workshop: <a href="astro.indiana.edu/news-events/news/2025-pyiu-workshop-spring.html">https://astro.indiana.edu/news-events/news/2025-pyiu-workshop-spring.html</a>
 - Fall 2024 IU Crash Course: <a href="astro.indiana.edu/news-events/news/2024-fall-python-crash-course-wrapup.html">https://astro.indiana.edu/news-events/news/2024-fall-python-crash-course-wrapup.html</a>
 - Spring 2023 IU Advanced Workshop: <a href="astro.indiana.edu/news-events/news/2024-fall-python-crash-course-wrapup.html">https://astro.indiana.edu/news-events/news/pythn-crash-course-2023.html</a>
