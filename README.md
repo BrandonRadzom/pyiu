@@ -1,5 +1,6 @@
 # PyIU
 <img src="pyiu_logo.png" width="125" height="192">
+<img src="pyiu_workshop.png" width="543" height="200">
 
 ## A Python Workshop Series for Astrophysics and STEM Students
 
