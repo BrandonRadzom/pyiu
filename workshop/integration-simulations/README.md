@@ -1,3 +1,3 @@
 # Numerical Integration & Simulations
 
-**Contributors:** Brandon Radzom
+**Contributors:** Brandon Radzom, Ryan LoRusso
