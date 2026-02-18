@@ -20,4 +20,4 @@ Fill-in-the-blank, incomplete versions of demos (used during PyIU sessions) are 
 Completed solutions for these demos (useful to check your work) are located in the "demo-solutions" directory.
 
 
-**Contributors:** Brandon Radzom, Robert Howard,  Kristin Baker, Lexi Gault, Ethan White, Sarah Popp, Tash Sandford, Daniel Ornelas, Anika Goel, Agustin Heron, Caleb Choban, Jessica Ranshaw, Kyle Hixenbaugh, Amelia Binau, Samantha Goldberg
+**Contributors:** Brandon Radzom, Robert Howard,  Kristin Baker, Lexi Gault, Ethan White, Sarah Popp, Tash Sandford, Daniel Ornelas, Anika Goel, Agustin Heron, Caleb Choban, Jessica Ranshaw, Kyle Hixenbaugh, Amelia Binau, Samantha Goldberg, Katherine Barber, Daniel Gallego, Tyler Hinrichs
