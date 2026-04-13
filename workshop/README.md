@@ -4,7 +4,7 @@ The PyIU Advanced Workshops are designed to provide a flexible, laid-back, and i
 
 ## Get Coding
 
-All materials, including data, slides, and Python notebooks ("ipynb" files) from our in person Advanced Workshop sessions are organized by topic and posted in this public repository.
+All materials, including data, slides, and Python notebooks ("ipynb" files) from our in-person Advanced Workshop sessions are organized by topic and posted in this public repository.
 
 Topics that are covered include:
 - Data Analysis (numpy, pandas, & more)
@@ -16,5 +16,6 @@ Topics that are covered include:
 - Statistics
 - Machine Learning
 - Python Fundamentals
+- Advanced Functions & Parallelization
 
 The fastest and easiest way to get coding with these examples is through <a href="https://colab.research.google.com/">Google Colaboratory</a>, though most should run with any `anaconda` installation of Python.
