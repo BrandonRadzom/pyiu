@@ -1,3 +1,6 @@
 # Advanced Plotting
 
-**Contributors:** Kristin Baker, Jessica Ranshaw, Robert Howard
+- **advanced_plotting_complete.ipynb**: 
+- **plotting_supernova_demo.ipynb**: 
+
+**Contributors**:  Kristin Baker, Jessica Ranshaw, Robert Howard

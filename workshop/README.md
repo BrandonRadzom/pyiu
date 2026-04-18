@@ -7,7 +7,7 @@ The PyIU Advanced Workshops are designed to provide a flexible, laid-back, and i
 All materials, including data, slides, and Python notebooks ("ipynb" files) from our in-person Advanced Workshop sessions are organized by topic and posted in this public repository.
 
 Topics that are covered include:
-- Data Analysis (numpy, pandas, & more)
+- Data Analysis (`NumPy`, `Pandas`, & more)
 - Advanced Plotting
 - Data Handling & Fitting
 - Astronomy Packages & Examples

@@ -1,5 +1,5 @@
 # Data Analysis (NumPy)
 
-**Contributors:** Ethan White, Lexi Gault
+- **numpy_workshop_fall24.ipynb**: Notebook that covers some basics of `NumPy` for data analysis. Demonstrates why `NumPy` is a powerful tool in data analysis and explains some basics about how to use it.
 
-- **numpy_workshop_fall24.ipynb:** Notebook which covers some basics of 'NumPy' for data analysis. Demonstrates why NumPy is a powerful tool in data analysis and explains some basics on how to use it.
+**Contributors**: Ethan White, Lexi Gault
