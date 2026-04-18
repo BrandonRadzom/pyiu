@@ -2,5 +2,6 @@ crash-course/demo-solutions/*.png
 workshop/plotting/*.png
 workshop/data-fitting/*.txt
 workshop/advanced-functions-parallelization/__pycache__
+workshop/astro-examples/*.jpg
 .ipynb_checkpoints
 raw.githubusercontent.com
