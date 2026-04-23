@@ -1,15 +1,15 @@
 name: pyiu
 dependencies:
-  # - python=3.13.9
-  - numpy #=2.3.5
-  - matplotlib #=3.10.6
-  - pandas #=2.3.3
-  - astropy #=7.2.0
-  - specutils #=2.3.0
-  - astroquery #=0.4.11
-  - scipy #=1.16.3
+  - numpy
+  - matplotlib
+  - pandas
+  - astropy
+  - specutils
+  - astroquery
+  - scipy
   - pytorch
   - torchvision
   - scikit-learn
   - tensorflow
   - pymc
+  - tqdm
